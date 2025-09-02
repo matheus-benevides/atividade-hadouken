@@ -8,7 +8,7 @@ function playPause() {
 }
 
 function makeBig() {
-    meuVideo.width = 700;
+    meuVideo.width = 500;
 }
 
 function makeSmall() {
